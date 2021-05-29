@@ -4,6 +4,8 @@ Recruitment task for Code Concept - company from Gliwice
 Prepare an online store basket compatible with the visualization from the file cart-design.png
 Use any of the frontend frameworks to solve the task.
 
+Used technologies: React and SCSS
+
 1) You will find the necessary pictures in the images folder.
 2) The font used is Roboto
 3) Product data is located in the data folder, they have been divided into two .json files with a one-to-one relationship (productId -> id)
